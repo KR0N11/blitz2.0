@@ -1,3 +1,7 @@
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=000)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=000)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
